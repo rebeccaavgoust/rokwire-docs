@@ -147,7 +147,7 @@ Each App can have its own style rules for text. On the precedent of our current 
 * Buttons use title case.
 * Screen Titles use title case.
 * Commands in screens use sentence case.
-* Section headings in screens use sentence case.
+* Section headings in screens use title case.
 * Drop-down menus use title case.
 
 Give examples.
